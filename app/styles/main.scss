@@ -35,6 +35,10 @@ $fa-font-path: "../bower_components/font-awesome/fonts";
     color: #007bb6;
 }
 
+.fa-instagram .fa-instagram-square {
+    color: #517fa4;
+}
+
 .fa-linkedin, .fa-file-pdf-o {
     color: #AA0000;
 }
@@ -57,7 +61,7 @@ body {
 }
 
 body {
-  text-align: center;
+  text-align: left;
 }
 
 h1 {
@@ -107,6 +111,7 @@ p.lead {
 }
 
 ul.tools {
+  text-align:center;
   margin: 0;
   padding: 0;
   list-style-type: none;
